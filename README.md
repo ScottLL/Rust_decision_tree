@@ -54,5 +54,5 @@ mactex is only for mac version.
 other solutions could be using online tex-pdf convert generator: https://cloudconvert.com/tex-to-pdf
 
 result show below 
-[dt.pdf](https://github.com/ScottLL/Rust_decision_tree/files/10805583/dt.pdf)
 
+<img width="1134" alt="happiness_decision_tree" src="https://user-images.githubusercontent.com/43226003/220675018-ba5837d6-c9ba-4458-9a39-a3ab7d517c5b.png">
