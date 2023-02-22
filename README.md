@@ -54,5 +54,5 @@ mactex is only for mac version.
 other solutions could be using online tex-pdf convert generator: https://cloudconvert.com/tex-to-pdf
 
 result show below 
-dt.pdf
-![decision_tree](/workspaces/Rust_decision_tree/linfa_test/dt.pdf)
+[dt.pdf](https://github.com/ScottLL/Rust_decision_tree/files/10805583/dt.pdf)
+
