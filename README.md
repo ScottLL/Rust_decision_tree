@@ -36,15 +36,19 @@ The "happiness level" label is also a quantitative variable that ranges from 1-1
 
 * import packages
 
-> cargo add linfa
-> cargo add linfa_trees 
-> cargo add ndarray 
+> $ cargo add linfa
+
+> $ cargo add linfa_trees 
+
+> $ cargo add ndarray 
 
 * output
 > dt.tex file
 
 tex file require tex reader. we can use mactex to read it 
-> brew install mactex
+> $ brew install mactex
+
+> $ pdflatex dt.tex && open dt.pdf
 
 mactex is only for mac version. 
 other solutions could be using online tex-pdf convert generator: https://cloudconvert.com/tex-to-pdf
